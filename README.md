@@ -1,2 +1,2 @@
 # Excel_Challenge
-In this Excel challange, we used crowdfunding data to analyze trends in the data like which parent category was most successful by country, which subcategory was most successful by country, and in what month were the most successful campaigns launched, among other things.  
+In this Excel challange, we used crowdfunding data to analyze trends in the data like which parent category was most successful by country, which subcategory was most successful by country, and in what month were the most successful campaigns launched, among other things.  The outcomes based on goal amount was also looked at, as well as general statistics of the number of backers for successful and failed campaigns. 
